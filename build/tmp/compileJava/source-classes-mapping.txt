@@ -1,2 +1,8 @@
 BaiTap/BaiTap1.java
  BaiTap.BaiTap1
+BaiTap/BaiTap2.java
+ BaiTap.BaiTap2
+ BaiTap.BaiTap2$Student
+BaiTap/BaiTap3.java
+ BaiTap.BaiTap3
+ BaiTap.BaiTap3$Student
